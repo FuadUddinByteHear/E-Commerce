@@ -1,0 +1,51 @@
+﻿@model Aranoz.Model.Model.AdminViewModel
+@{
+    ViewBag.Title = "AddProduct";
+}
+
+@using (Html.BeginForm("AddProduct", "Product", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.HiddenFor(model => model.Product.ProdutID)
+    @Html.HiddenFor(model => model.Product.ProductImage)
+    <h1> Give All The Information Carefully</h1>
+    <div>
+        <label> Product Name</label>
+        @Html.EditorFor(model => model.Product.ProductName, new { type = "text", })
+        @Html.ValidationMessageFor(model => model.Product.ProductName)
+    </div>
+    <div>
+        <label> Product Price</label>
+        @Html.EditorFor(model => model.Product.ProductPrice, new { type = "text", })
+        @Html.ValidationMessageFor(model => model.Product.ProductPrice)
+    </div>
+    <div>
+        <label> Product Details</label>
+        @Html.TextAreaFor(model => model.Product.ProductDetails, new { type = "text", })
+        @Html.ValidationMessageFor(model => model.Product.ProductDetails)
+    </div>
+    <div>
+        <label> Category </label>
+        @Html.DropDownListFor(model => model.Product.CategoryId, new SelectList(Model.CategoryList, "CategoryId", "CategorName"))
+        @Html.ValidationMessageFor(model => model.Product.CategoryId)
+    </div>
+    <div class="new-contact__header">
+        @if (Model.Product.ProductImage != null)
+        {
+            <img src="@Model.Product.ProductImage" class="new-contact__img" alt="">
+        }
+        <input type="file" name="file" id="files" class="zmdi zmdi-camera new-contact__upload" />
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            @if (Model.Product == null)
+            {
+                <input type="submit" value="Create" class="btn btn-light" />
+            }
+            else
+            {
+                <input type="submit" value="Update" class="btn btn-light" />
+            }
+
+        </div>
+    </div>
+}
