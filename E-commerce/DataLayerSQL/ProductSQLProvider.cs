@@ -45,7 +45,7 @@ namespace DataLayerSQL
         {
             using (SqlConnection conncetion = new SqlConnection(ConnectionStringProvider.Connection))
             {
-                SqlCommand command = new SqlCommand("select * from product", conncetion);
+                SqlCommand command = new SqlCommand("SELECT  Category.CategoryName, Product.ProductName,Product.ProductPrice, Product.ProductImage,Product.ProductDetails FROM Product INNER JOIN Product ON Product.CategoryId = Category.CategoryId; ", conncetion);
                 command.CommandType = CommandType.Text;
                 try
                 {

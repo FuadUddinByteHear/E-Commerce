@@ -3,3 +3,8 @@ C:\Users\ASUS\source\repos\E-commerce\Aranoz.Utility\bin\Debug\Aranoz.Utility.pd
 C:\Users\ASUS\source\repos\E-commerce\Aranoz.Utility\obj\Debug\Aranoz.Utility.csproj.CoreCompileInputs.cache
 C:\Users\ASUS\source\repos\E-commerce\Aranoz.Utility\obj\Debug\Aranoz.Utility.dll
 C:\Users\ASUS\source\repos\E-commerce\Aranoz.Utility\obj\Debug\Aranoz.Utility.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\Aranoz.Utility\bin\Debug\Aranoz.Utility.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\Aranoz.Utility\bin\Debug\Aranoz.Utility.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\Aranoz.Utility\obj\Debug\Aranoz.Utility.csproj.CoreCompileInputs.cache
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\Aranoz.Utility\obj\Debug\Aranoz.Utility.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\Aranoz.Utility\obj\Debug\Aranoz.Utility.pdb

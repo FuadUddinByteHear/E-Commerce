@@ -7,3 +7,12 @@ C:\Users\ASUS\source\repos\E-commerce\DataLayer.Aranoz\obj\Debug\DataLayer.Arano
 C:\Users\ASUS\source\repos\E-commerce\DataLayer.Aranoz\obj\Debug\DataLayer.Aranoz.csproj.CopyComplete
 C:\Users\ASUS\source\repos\E-commerce\DataLayer.Aranoz\obj\Debug\DataLayer.Aranoz.dll
 C:\Users\ASUS\source\repos\E-commerce\DataLayer.Aranoz\obj\Debug\DataLayer.Aranoz.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayer.Aranoz\bin\Debug\DataLayer.Aranoz.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayer.Aranoz\bin\Debug\DataLayer.Aranoz.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayer.Aranoz\bin\Debug\Aranoz.Model.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayer.Aranoz\bin\Debug\Aranoz.Model.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayer.Aranoz\obj\Debug\DataLayer.Aranoz.csproj.AssemblyReference.cache
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayer.Aranoz\obj\Debug\DataLayer.Aranoz.csproj.CoreCompileInputs.cache
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayer.Aranoz\obj\Debug\DataLayer.Aranoz.csproj.CopyComplete
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayer.Aranoz\obj\Debug\DataLayer.Aranoz.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayer.Aranoz\obj\Debug\DataLayer.Aranoz.pdb

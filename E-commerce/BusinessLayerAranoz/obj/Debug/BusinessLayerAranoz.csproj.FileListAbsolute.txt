@@ -11,3 +11,16 @@ C:\Users\ASUS\source\repos\E-commerce\BusinessLayerAranoz\obj\Debug\BusinessLaye
 C:\Users\ASUS\source\repos\E-commerce\BusinessLayerAranoz\obj\Debug\BusinessLayerAranoz.pdb
 C:\Users\ASUS\source\repos\E-commerce\BusinessLayerAranoz\bin\Debug\Aranoz.Utility.dll
 C:\Users\ASUS\source\repos\E-commerce\BusinessLayerAranoz\bin\Debug\Aranoz.Utility.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\BusinessLayerAranoz\bin\Debug\BusinessLayerAranoz.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\BusinessLayerAranoz\bin\Debug\BusinessLayerAranoz.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\BusinessLayerAranoz\bin\Debug\Aranoz.Model.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\BusinessLayerAranoz\bin\Debug\DataLayerSQL.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\BusinessLayerAranoz\bin\Debug\Aranoz.Utility.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\BusinessLayerAranoz\bin\Debug\Aranoz.Model.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\BusinessLayerAranoz\bin\Debug\DataLayerSQL.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\BusinessLayerAranoz\bin\Debug\Aranoz.Utility.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\BusinessLayerAranoz\obj\Debug\BusinessLayerAranoz.csproj.AssemblyReference.cache
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\BusinessLayerAranoz\obj\Debug\BusinessLayerAranoz.csproj.CoreCompileInputs.cache
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\BusinessLayerAranoz\obj\Debug\BusinessLayerAranoz.csproj.CopyComplete
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\BusinessLayerAranoz\obj\Debug\BusinessLayerAranoz.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\BusinessLayerAranoz\obj\Debug\BusinessLayerAranoz.pdb

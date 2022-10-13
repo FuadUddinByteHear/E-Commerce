@@ -9,26 +9,26 @@ using System.Web.Security;
 using System.Web;
 namespace DataLayerSQL
 {
-    public class MembershipSQLProvider : /*DbContext*/
+    public class MembershipSQLProvider
     {
 
         public int AddnewRole(string rolename)
         {
-            var conncetion=WebSecurity.InitializeDatabaseConnection("DBConnection", "UserProfile", "UserId", "UserName");
+            //var conncetion=WebSecurity.InitializeDatabaseConnection("DBConnection", "UserProfile", "UserId", "UserName");
             var added = 0;
-            try
-            {
-                Membership.CreateUser("fuad", "fuad");
-                Roles.CreateRole(rolename);
-                if (!Roles.RoleExists(rolename))
-                {
-                    Roles.CreateRole(rolename);
-                }
-            }
-            catch (Exception e)
-            {
-                throw new Exception("Message"+e);
-            }
+            //try
+            //{
+            //    Membership.CreateUser("fuad", "fuad");
+            //    Roles.CreateRole(rolename);
+            //    if (!Roles.RoleExists(rolename))
+            //    {
+            //        Roles.CreateRole(rolename);
+            //    }
+            //}
+            //catch (Exception e)
+            //{
+            //    throw new Exception("Message"+e);
+            //}
           
             //application
             //Roles.ApplicationName("admin");

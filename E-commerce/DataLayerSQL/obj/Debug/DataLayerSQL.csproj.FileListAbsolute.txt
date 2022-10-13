@@ -11,3 +11,16 @@ C:\Users\ASUS\source\repos\E-commerce\DataLayerSQL\obj\Debug\DataLayerSQL.csproj
 C:\Users\ASUS\source\repos\E-commerce\DataLayerSQL\obj\Debug\DataLayerSQL.csproj.CopyComplete
 C:\Users\ASUS\source\repos\E-commerce\DataLayerSQL\obj\Debug\DataLayerSQL.dll
 C:\Users\ASUS\source\repos\E-commerce\DataLayerSQL\obj\Debug\DataLayerSQL.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayerSQL\obj\Debug\DataLayerSQL.csproj.AssemblyReference.cache
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayerSQL\obj\Debug\DataLayerSQL.csproj.CoreCompileInputs.cache
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayerSQL\obj\Debug\DataLayerSQL.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayerSQL\obj\Debug\DataLayerSQL.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayerSQL\bin\Debug\DataLayerSQL.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayerSQL\bin\Debug\DataLayerSQL.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayerSQL\bin\Debug\Aranoz.Model.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayerSQL\bin\Debug\Aranoz.Utility.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayerSQL\bin\Debug\DataLayer.Aranoz.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayerSQL\bin\Debug\Aranoz.Model.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayerSQL\bin\Debug\Aranoz.Utility.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayerSQL\bin\Debug\DataLayer.Aranoz.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\DataLayerSQL\obj\Debug\DataLayerSQL.csproj.CopyComplete
