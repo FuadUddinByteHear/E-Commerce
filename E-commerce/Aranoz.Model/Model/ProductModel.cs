@@ -21,5 +21,6 @@ namespace Aranoz.Model
         public string ProductImage { get; set; }
         [Required(ErrorMessage = "Product Details is Required")]
         public string ProductDetails { get; set; }
+        public string CategoryName { get; set; }
     }
 }

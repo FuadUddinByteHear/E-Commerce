@@ -45,7 +45,7 @@ namespace DataLayerSQL
         {
             using (SqlConnection conncetion = new SqlConnection(ConnectionStringProvider.Connection))
             {
-                SqlCommand command = new SqlCommand("SELECT  Category.CategoryName, Product.ProductName,Product.ProductPrice, Product.ProductImage,Product.ProductDetails FROM Product INNER JOIN Product ON Product.CategoryId = Category.CategoryId; ", conncetion);
+                SqlCommand command = new SqlCommand("SELECT  Category.CategoryName,Product.ProductId, Product.ProductName,Product.ProductPrice, Product.ProductImage,Product.ProductDetails FROM Product INNER JOIN Category ON Product.CategoryId = Category.CategoryId; ", conncetion);
                 command.CommandType = CommandType.Text;
                 try
                 {
@@ -60,7 +60,7 @@ namespace DataLayerSQL
                         product.ProductImage = (string)list["ProductImage"];
                         product.ProductDetails = (string)list["ProductDetails"];
                         product.ProductPrice = (double)list["ProductPrice"];
-                        product.CategoryId = (int)list["CategoryId"];
+                        product.CategoryName = (string)list["CategoryName"];
                         Products.Add(product);
                     }
                     return Products;
