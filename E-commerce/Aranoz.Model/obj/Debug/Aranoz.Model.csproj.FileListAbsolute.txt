@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\E-commerce\Aranoz.Model\bin\Debug\Aranoz.Model.dll
+C:\Users\ASUS\source\repos\E-commerce\Aranoz.Model\bin\Debug\Aranoz.Model.pdb
+C:\Users\ASUS\source\repos\E-commerce\Aranoz.Model\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ASUS\source\repos\E-commerce\Aranoz.Model\obj\Debug\Aranoz.Model.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\E-commerce\Aranoz.Model\obj\Debug\Aranoz.Model.csproj.CopyComplete
+C:\Users\ASUS\source\repos\E-commerce\Aranoz.Model\obj\Debug\Aranoz.Model.dll
+C:\Users\ASUS\source\repos\E-commerce\Aranoz.Model\obj\Debug\Aranoz.Model.pdb

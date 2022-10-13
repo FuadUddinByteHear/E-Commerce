@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\E-commerce\DataLayer.Aranoz\bin\Debug\DataLayer.Aranoz.dll
+C:\Users\ASUS\source\repos\E-commerce\DataLayer.Aranoz\bin\Debug\DataLayer.Aranoz.pdb
+C:\Users\ASUS\source\repos\E-commerce\DataLayer.Aranoz\bin\Debug\Aranoz.Model.dll
+C:\Users\ASUS\source\repos\E-commerce\DataLayer.Aranoz\bin\Debug\Aranoz.Model.pdb
+C:\Users\ASUS\source\repos\E-commerce\DataLayer.Aranoz\obj\Debug\DataLayer.Aranoz.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\E-commerce\DataLayer.Aranoz\obj\Debug\DataLayer.Aranoz.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\E-commerce\DataLayer.Aranoz\obj\Debug\DataLayer.Aranoz.csproj.CopyComplete
+C:\Users\ASUS\source\repos\E-commerce\DataLayer.Aranoz\obj\Debug\DataLayer.Aranoz.dll
+C:\Users\ASUS\source\repos\E-commerce\DataLayer.Aranoz\obj\Debug\DataLayer.Aranoz.pdb
