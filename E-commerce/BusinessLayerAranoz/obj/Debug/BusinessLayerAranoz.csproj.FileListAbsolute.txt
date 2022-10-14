@@ -24,3 +24,18 @@ E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\BusinessLayerAranoz\obj
 E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\BusinessLayerAranoz\obj\Debug\BusinessLayerAranoz.csproj.CopyComplete
 E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\BusinessLayerAranoz\obj\Debug\BusinessLayerAranoz.dll
 E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\BusinessLayerAranoz\obj\Debug\BusinessLayerAranoz.pdb
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\BusinessLayerAranoz\bin\Debug\BusinessLayerAranoz.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\BusinessLayerAranoz\bin\Debug\BusinessLayerAranoz.pdb
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\BusinessLayerAranoz\bin\Debug\Aranoz.Model.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\BusinessLayerAranoz\bin\Debug\DataLayerSQL.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\BusinessLayerAranoz\bin\Debug\Aranoz.Utility.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\BusinessLayerAranoz\bin\Debug\Aranoz.Model.pdb
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\BusinessLayerAranoz\bin\Debug\DataLayerSQL.pdb
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\BusinessLayerAranoz\bin\Debug\Aranoz.Utility.pdb
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\BusinessLayerAranoz\obj\Debug\BusinessLayerAranoz.csproj.AssemblyReference.cache
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\BusinessLayerAranoz\obj\Debug\BusinessLayerAranoz.csproj.CoreCompileInputs.cache
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\BusinessLayerAranoz\obj\Debug\BusinessLayerAranoz.csproj.CopyComplete
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\BusinessLayerAranoz\obj\Debug\BusinessLayerAranoz.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\BusinessLayerAranoz\obj\Debug\BusinessLayerAranoz.pdb
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\BusinessLayerAranoz\bin\Debug\DataLayer.Aranoz.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\BusinessLayerAranoz\bin\Debug\DataLayer.Aranoz.pdb

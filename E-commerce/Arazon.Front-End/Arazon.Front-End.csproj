@@ -479,6 +479,7 @@
     <Content Include="Assets\webfonts\fa-brands-400.svg" />
     <Content Include="Assets\webfonts\fa-regular-400.svg" />
     <Content Include="Assets\webfonts\fa-solid-900.svg" />
+    <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
     <Content Include="Html\blog.html" />
     <Content Include="Html\cart.html" />
@@ -504,7 +505,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\web.config" />
     <Content Include="Assets\188 Aranoz shop DOC\fonts\fontawesome-webfont.eot" />
     <Content Include="Assets\188 Aranoz shop DOC\fonts\fontawesome-webfont.ttf" />
     <Content Include="Assets\188 Aranoz shop DOC\fonts\fontawesome-webfont.woff" />
@@ -582,6 +582,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

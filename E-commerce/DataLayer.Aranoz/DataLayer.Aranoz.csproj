@@ -32,6 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -41,13 +42,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CategoryData.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="ProductData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Aranoz.Model\Aranoz.Model.csproj">
       <Project>{e1c53f30-e107-49f3-aacd-aa0b339b8026}</Project>
       <Name>Aranoz.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Aranoz.Utility\Aranoz.Utility.csproj">
+      <Project>{EF91D498-FDCA-4690-840F-B63747EB8223}</Project>
+      <Name>Aranoz.Utility</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

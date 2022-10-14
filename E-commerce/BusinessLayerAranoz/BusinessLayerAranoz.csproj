@@ -45,11 +45,17 @@
     <Compile Include="ProductManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RoleManager.cs" />
+    <Compile Include="SPCategoryManager.cs" />
+    <Compile Include="SPProductManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Aranoz.Model\Aranoz.Model.csproj">
       <Project>{e1c53f30-e107-49f3-aacd-aa0b339b8026}</Project>
       <Name>Aranoz.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataLayer.Aranoz\DataLayer.Aranoz.csproj">
+      <Project>{5de2cd06-ba57-4438-a4f6-63d9060de765}</Project>
+      <Name>DataLayer.Aranoz</Name>
     </ProjectReference>
     <ProjectReference Include="..\DataLayerSQL\DataLayerSQL.csproj">
       <Project>{82328dd6-1117-43e9-b4c6-7fb3f5bd00b6}</Project>

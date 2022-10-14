@@ -12,3 +12,11 @@ E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\Aranoz.Model\obj\Debug\
 E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\Aranoz.Model\obj\Debug\Aranoz.Model.csproj.CopyComplete
 E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\Aranoz.Model\obj\Debug\Aranoz.Model.dll
 E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\Aranoz.Model\obj\Debug\Aranoz.Model.pdb
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\Aranoz.Model\bin\Debug\Aranoz.Model.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\Aranoz.Model\bin\Debug\Aranoz.Model.pdb
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\Aranoz.Model\bin\Debug\System.ComponentModel.Annotations.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\Aranoz.Model\obj\Debug\Aranoz.Model.csproj.AssemblyReference.cache
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\Aranoz.Model\obj\Debug\Aranoz.Model.csproj.CoreCompileInputs.cache
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\Aranoz.Model\obj\Debug\Aranoz.Model.csproj.CopyComplete
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\Aranoz.Model\obj\Debug\Aranoz.Model.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\Aranoz.Model\obj\Debug\Aranoz.Model.pdb

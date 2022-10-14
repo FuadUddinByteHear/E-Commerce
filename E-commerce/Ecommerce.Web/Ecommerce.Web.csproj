@@ -88,11 +88,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Site.css" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -101,6 +103,9 @@
   <ItemGroup>
     <Content Include="Views\web.config" />
     <None Include="packages.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Home\UserHome.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -110,8 +115,21 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
     <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Aranoz.Model\Aranoz.Model.csproj">
+      <Project>{E1C53F30-E107-49F3-AACD-AA0B339B8026}</Project>
+      <Name>Aranoz.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BusinessLayerAranoz\BusinessLayerAranoz.csproj">
+      <Project>{FF8D5EC9-7D1F-4F74-842A-B41CE71803AC}</Project>
+      <Name>BusinessLayerAranoz</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\E-commerce\E-commerce.csproj">
+      <Project>{d4d707a2-9fb4-4ec2-b4bf-2ba211453d60}</Project>
+      <Name>E-commerce</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
