@@ -49,6 +49,7 @@
     <Compile Include="Model\AdminViewModel.cs" />
     <Compile Include="Model\CategoryModel.cs" />
     <Compile Include="Model\ProductModel.cs" />
+    <Compile Include="Model\SessionIdModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

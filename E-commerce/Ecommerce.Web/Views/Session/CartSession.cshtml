@@ -1,0 +1,30 @@
+﻿@using Aranoz.Model.Model;
+<div class="dropdown cart">
+    <a class="dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        @{
+            int index = 0;
+            var cartproduct = (List<SessionIdModel>)Session["cart"];
+
+            if (cartproduct == null)
+            {
+
+                <a href="@Url.Action("myCart","Cart")"><i data-count="@index" class="fas fa-cart-plus"></i></a>
+
+
+
+
+            }
+            else
+            {
+                index = cartproduct.Count;
+
+                <a href="@Url.Action("myCart","Cart")"><i data-count="@index" class="fas fa-cart-plus"></i></a>
+
+            }
+
+        }
+    </a>
+
+</div>
+
+

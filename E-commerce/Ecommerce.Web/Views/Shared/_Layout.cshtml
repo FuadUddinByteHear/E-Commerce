@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@using Aranoz.Model.Model;
+
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -43,7 +45,7 @@
                                 </li>
                                 <li class="nav-item dropdown">
                                     <a class="nav-link dropdown-toggle" href="blog.html" id="navbarDropdown_1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                      Category
+                                        Category
                                     </a>
                                     <div class="dropdown-menu" aria-labelledby="navbarDropdown_1">
                                         <a class="dropdown-item" href="category.html"> shop category</a>
@@ -64,7 +66,7 @@
                                         <a class="dropdown-item" href="elements.html">elements</a>
                                     </div>
                                 </li>
-                              
+
 
                                 <li class="nav-item">
                                     <a class="nav-link" href="contact.html">Contact</a>
@@ -74,17 +76,8 @@
                         <div class="hearer_icon d-flex">
                             <a id="search_1" href="javascript:void(0)"><i class="ti-search"></i></a>
                             <a href=""><i class="ti-heart"></i></a>
-                            <div class="dropdown cart">
-                                <a class="dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    <i class="fas fa-cart-plus"></i>
-                                </a>
-                                <!-- <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <div class="single_product">
+                            @RenderPage("~/Views/Session/CartSession.cshtml")
 
-                                    </div>
-                                </div> -->
-
-                            </div>
                         </div>
                     </nav>
                 </div>
@@ -122,6 +115,34 @@
         </footer>
     </div>
 
+
+    <style>
+        .main_menu .cart i:after {
+            position: absolute;
+            border-radius: 50%;
+            background-color: #f13d80;
+            width: 14px;
+            height: 14px;
+            right: -8px;
+            top: -8px;
+            content: attr(data-count) !important;
+            text-align: center;
+            line-height: 15px;
+            font-size: 10px;
+            color: #fff;
+        }
+        .row.align-items-center.latest_product_inner {
+            display: block;
+        }
+        .single_product_item img {
+            width: 250px;
+            height: 250px;
+        }
+        button {
+            border: none;
+            background: none;
+        } 
+    </style>
 
     <!-- jquery plugins here-->
     <!-- jquery -->

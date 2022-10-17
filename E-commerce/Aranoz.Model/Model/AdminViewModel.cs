@@ -18,5 +18,7 @@ namespace Aranoz.Model.Model
         public HttpPostedFileBase File { get; set; }
         [Required(ErrorMessage = "Please Upload a Image")]
         public HttpPostedFileBase[] Files { get; set; }
+
+        public List<SessionIdModel> Id { get; set; }
     }
 }

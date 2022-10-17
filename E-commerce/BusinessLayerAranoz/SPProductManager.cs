@@ -18,5 +18,13 @@ namespace BusinessLayerAranoz
             return products;
         }
 
+        public List<ProductModel> SpecificProduct(int Id)
+        {
+            List<ProductModel> items = new List<ProductModel>();
+            items = data.GetSpecificProduct(Id);
+            return items;
+
+        }
+
     }
 }

@@ -1,4 +1,5 @@
 ﻿@using Ecommerce;
+@using Aranoz.Model.Model;
 @model Aranoz.Model.Model.AdminViewModel
 
 
@@ -19,14 +20,14 @@
                 <div class="left_sidebar_area">
                     <aside class="left_widgets p_filter_widgets">
                         <div class="l_w_title">
-                            <h3>Categories</h3>
+                            <h3>Filter</h3>
                         </div>
                         <div class="widgets_inner">
                             <ul class="list">
                                @foreach(var item in Model.CategoryList)
             {
                                 <li>
-                                    <a href="#">@item.CategorName</a>
+                                    <button onclick="cartproducts(@item.CategoryId)">@item.CategorName</button>
                                 
                                 </li>
             }
@@ -58,32 +59,32 @@
                 </div>
 
                 <div class="row align-items-center latest_product_inner">
+                    <div id="productList" class="row">
+                        @foreach (var productItem in Model.ProductList)
+                        {
 
-                    @foreach (var productItem in Model.ProductList)
-                    {
+                            string imgPath = @"https://hepcludex.dev.local/" + productItem.ProductImage;
 
-                        string imgPath = @"https://hepcludex.dev.local/" + productItem.ProductImage;
-
-                        <div class="col-lg-4 col-sm-6">
-                            <div class="single_product_item">
-                                <img src="@imgPath" alt="">
-                                <div class="single_product_text">
-                                    <h4>@productItem.ProductName</h4>
-                                    <h3>@productItem.ProductPrice৳</h3>
-                                    <div class="btn-more">
-                                        <button href="index.html" type="btn" class="btn_3">
-                                            Add To Cart
-                                        </button>
-                                        <button href="index.html" type="btn" class="btn_3">
-                                            More Details
-                                        </button>
+                            <div class="col-lg-4 col-sm-6">
+                                <div class="single_product_item">
+                                    <img src="@imgPath" alt="">
+                                    <div class="single_product_text">
+                                        <h4>@productItem.ProductName</h4>
+                                        <h3>@productItem.ProductPrice৳</h3>
+                                        <div class="btn-more">
+                                            <button href="index.html" type="btn" class="btn_3" onclick="cartAdd(@productItem.ProdutID)">
+                                                Add To Cart
+                                            </button>
+                                            <button href="index.html" type="btn" class="btn_3">
+                                                More Details
+                                            </button>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    }
+                        }
 
-
+                    </div>
                   
                  
                  
@@ -96,16 +97,17 @@
                                             <i class="ti-angle-double-left"></i>
                                         </a>
                                     </li>
+                                   
                                     <li class="page-item"><a class="page-link" href="#">1</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">2</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">3</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">4</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">5</a></li>
-                                    <li class="page-item"><a class="page-link" href="#">6</a></li>
-                                    <li class="page-item">
-                                        <a class="page-link" href="#" aria-label="Next">
-                                            <i class="ti-angle-double-right"></i>
-                                        </a>
+        <li class="page-item"><a class="page-link" href="#">2</a></li>
+        <li class="page-item"><a class="page-link" href="#">3</a></li>
+        <li class="page-item"><a class="page-link" href="#">4</a></li>
+        <li class="page-item"><a class="page-link" href="#">5</a></li>
+        <li class="page-item"><a class="page-link" href="#">6</a></li>
+        <li class="page-item">
+                                    <a class="page-link" href="#" aria-label="Next">
+                                        <i class="ti-angle-double-right"></i>
+                                    </a>
                                     </li>
                                 </ul>
                             </nav>
@@ -117,3 +119,51 @@
     </div>
 </section>
 
+
+
+
+<script>
+
+    var cartAdd = function (id) {
+        $.ajax({
+            type: "POST",
+            url: `/Session/CartSession/${id}`,
+            contentType: "application/json;charset=utf-8",
+
+        }).success(function (result) {
+
+
+            window.location.reload();
+          
+
+         })
+
+            .error(function (xhr, status) {
+                alert(status);
+            })
+
+
+
+            }
+
+
+
+
+    /*  for showing the specific catagories product*/
+    var cartproducts = function (id) {
+        $.ajax({
+            url: `/CategoryProduct/FilterProduct/${id}`,
+            contentType: "application/html;charset=utf-8",
+            type: "GET",
+            dataType: 'html',
+
+        })
+            .success(function (data) {
+
+                $('#productList').html(data);
+            })
+            .error(function (xhr, status) {
+                alert(status);
+            })
+     }
+</script>

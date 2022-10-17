@@ -1,0 +1,120 @@
+﻿@model IEnumerable<Aranoz.Model.ProductModel>
+
+@{
+    ViewBag.Title = "myCart";
+}
+
+<section class="cart_area padding_top">
+    <div class="container">
+        <div class="cart_inner">
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">Product</th>
+                            <th scope="col">Price</th>
+                            <th scope="col">Quantity</th>
+                            <th scope="col">Total</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model != null)
+
+                                    { 
+                            var i = 0;
+                                       
+                            foreach (var items in Model)
+                                        {
+
+                                            string imgPath = @"https://hepcludex.dev.local/" + items.ProductImage;
+                                <tr>
+                                    <td>
+                                        <div class="media">
+                                            <div class="d-flex">
+                                                <img src="@imgPath" alt="">
+                                            </div>
+                                            <div class="media-body">
+                                                <p>@items.ProductName</p>
+                                            </div>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <h5>@items.ProductPrice</h5>
+                                    </td>
+                                    <td>
+
+                                        <input type="number" id="quantity" class="qt" name="quantity" min="1" max="" onkeyup="multiply(@items.ProductPrice,@i)">
+                                    </td>
+                                    <td>
+                                        <h5 class="tprice">$720.00</h5>
+                                    </td>
+                                </tr>
+                                i++;
+                            }
+                        }
+
+                        else
+                        {
+                <h2>@TempData["cartList"]</h2>
+            }
+
+
+
+
+                        <tr class="bottom_button">
+                            <td>
+                                <a class="btn_1" href="#">Update Cart</a>
+                            </td>
+                            <td></td>
+                            <td></td>
+                            <td>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>
+                                <h5>Subtotal</h5>
+                            </td>
+                            <td>
+                                <h5>$2160.00</h5>
+                            </td>
+                        </tr>
+                        <tr class="shipping_area">
+                            <td></td>
+                            <td></td>
+
+
+                        </tr>
+                    </tbody>
+                </table>
+                <div class="checkout_btn_inner float-right">
+                    <a class="btn_1" href="#">Continue Shopping</a>
+                    <a class="btn_1 checkout_btn_1" href="#">Proceed to checkout</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<script type="text/javascript">
+    $(document).ready(function multiply(price, index) {
+      
+            let a = $(".qt").val();
+            let quantity = a[index];
+            let total = price * quantity;
+            let priceCol = $(".tprice");
+            let x = priceCol[index];
+            x.html("Hello World");
+            console.log(x);
+            console.log(total);
+
+
+
+    
+
+    });
+    
+   
+</script>
