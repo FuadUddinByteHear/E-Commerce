@@ -1,0 +1,353 @@
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\obj\Debug\E-commerce.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\obj\Debug\E-commerce.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\E-commerce.dll.config
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\E-commerce.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\E-commerce.pdb
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\csc.exe
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\csc.exe.config
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\csc.rsp
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\csi.exe
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\csi.exe.config
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\csi.rsp
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\vbc.exe
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\vbc.rsp
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\Aranoz.Model.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\Aranoz.Utility.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\BusinessLayerAranoz.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\System.Web.Helpers.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\System.Web.Mvc.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\System.Web.Razor.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\System.Web.Webpages.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\System.Web.Webpages.Razor.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\DataLayerSQL.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\Aranoz.Model.pdb
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\Aranoz.Utility.pdb
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\BusinessLayerAranoz.pdb
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\System.Web.Razor.xml
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\System.Web.Webpages.xml
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\System.Web.Webpages.Razor.xml
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\System.Web.Helpers.xml
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\System.Web.Mvc.xml
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\DataLayerSQL.pdb
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\obj\Debug\E-commerce.csproj.CopyComplete
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\obj\Debug\E-commerce.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\obj\Debug\E-commerce.pdb
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\System.Buffers.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\System.Memory.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\WebMatrix.Data.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\WebMatrix.WebData.dll
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\WebMatrix.Data.xml
+C:\Users\ASUS\source\repos\E-commerce\E-commerce\bin\WebMatrix.WebData.xml
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\E-commerce.dll.config
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\E-commerce.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\E-commerce.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csc.exe
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csc.exe.config
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csc.rsp
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csi.exe
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csi.exe.config
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csi.rsp
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.Managed.Core.targets
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Buffers.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Collections.Immutable.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Memory.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Numerics.Vectors.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Reflection.Metadata.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\vbc.exe
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\vbc.exe.config
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\vbc.rsp
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\VBCSCompiler.exe
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\VBCSCompiler.exe.config
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\Aranoz.Model.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\Aranoz.Utility.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\BusinessLayerAranoz.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\Microsoft.Web.Infrastructure.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Helpers.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Mvc.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Razor.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.Deployment.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.Razor.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\WebMatrix.Data.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\WebMatrix.WebData.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\DataLayerSQL.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\Aranoz.Model.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\Aranoz.Utility.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\BusinessLayerAranoz.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Helpers.xml
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Mvc.xml
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Razor.xml
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.xml
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.Deployment.xml
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.Razor.xml
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\WebMatrix.Data.xml
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\WebMatrix.WebData.xml
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\bin\DataLayerSQL.pdb
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\obj\Debug\E-commerce.csproj.AssemblyReference.cache
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\obj\Debug\E-commerce.csproj.CoreCompileInputs.cache
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\obj\Debug\E-commerce.csproj.CopyComplete
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\obj\Debug\E-commerce.dll
+E:\EcommerceWebsite\New folder\Ecommerce-Site\E-commerce\E-commerce\obj\Debug\E-commerce.pdb
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\E-commerce.dll.config
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\E-commerce.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\E-commerce.pdb
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\csc.exe
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\csc.exe.config
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\csc.rsp
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\csi.exe
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\csi.exe.config
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\csi.rsp
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\Microsoft.Managed.Core.targets
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\System.Buffers.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\System.Collections.Immutable.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\System.Memory.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\System.Numerics.Vectors.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\System.Reflection.Metadata.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\vbc.exe
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\vbc.exe.config
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\vbc.rsp
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\VBCSCompiler.exe
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\roslyn\VBCSCompiler.exe.config
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\Aranoz.Model.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\Aranoz.Utility.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\BusinessLayerAranoz.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\Microsoft.Web.Infrastructure.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\System.Web.Helpers.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\System.Web.Mvc.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\System.Web.Razor.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\System.Web.WebPages.Deployment.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\System.Web.WebPages.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\System.Web.WebPages.Razor.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\WebMatrix.Data.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\WebMatrix.WebData.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\DataLayerSQL.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\Aranoz.Model.pdb
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\Aranoz.Utility.pdb
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\BusinessLayerAranoz.pdb
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\System.Web.Helpers.xml
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\System.Web.Mvc.xml
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\System.Web.Razor.xml
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\System.Web.WebPages.xml
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\System.Web.WebPages.Deployment.xml
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\System.Web.WebPages.Razor.xml
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\WebMatrix.Data.xml
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\WebMatrix.WebData.xml
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\DataLayerSQL.pdb
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\obj\Debug\E-commerce.csproj.AssemblyReference.cache
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\obj\Debug\E-commerce.csproj.CoreCompileInputs.cache
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\obj\Debug\E-commerce.csproj.CopyComplete
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\obj\Debug\E-commerce.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\obj\Debug\E-commerce.pdb
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\DataLayer.Aranoz.dll
+G:\bh-ecommerce\ByteHeart E-commerce Website\Aranoz\E-commerce\E-commerce\bin\DataLayer.Aranoz.pdb
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\DesignFactory.WebMatrix.Executer.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\E-commerce.dll.config
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\E-commerce.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\E-commerce.pdb
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csc.exe
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csc.exe.config
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csc.rsp
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csi.exe
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csi.exe.config
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csi.rsp
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.Managed.Core.targets
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Buffers.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Collections.Immutable.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Memory.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Numerics.Vectors.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Reflection.Metadata.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\vbc.exe
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\vbc.exe.config
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\vbc.rsp
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\VBCSCompiler.exe
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\VBCSCompiler.exe.config
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\Antlr3.Runtime.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\Aranoz.Model.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\Aranoz.Utility.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\BusinessLayerAranoz.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\DesignFactory.WebMatrix.ExecuterFactory.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\DesignFactory.WebMatrix.IExecuter.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\Microsoft.Web.Infrastructure.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\Newtonsoft.Json.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Security.AccessControl.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Helpers.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Mvc.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Optimization.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Razor.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.Deployment.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.Razor.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\WebGrease.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\WebMatrix.Data.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\WebMatrix.WebData.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\DataLayerSQL.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\DataLayer.Aranoz.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\Aranoz.Model.pdb
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\Aranoz.Utility.pdb
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\BusinessLayerAranoz.pdb
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\Antlr3.Runtime.pdb
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\Newtonsoft.Json.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Helpers.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Mvc.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Optimization.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Razor.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.Deployment.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.Razor.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\WebMatrix.Data.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\WebMatrix.WebData.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\DataLayerSQL.pdb
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\bin\DataLayer.Aranoz.pdb
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\obj\Debug\E-commerce.csproj.AssemblyReference.cache
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\obj\Debug\E-commerce.csproj.CoreCompileInputs.cache
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\obj\Debug\E-commerce.csproj.CopyComplete
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\obj\Debug\E-commerce.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (4)\Ecommerce-Site\E-commerce\E-commerce\obj\Debug\E-commerce.pdb
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\DesignFactory.WebMatrix.Executer.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\E-commerce.dll.config
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\E-commerce.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\E-commerce.pdb
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csc.exe
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csc.exe.config
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csc.rsp
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csi.exe
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csi.exe.config
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\csi.rsp
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.Managed.Core.targets
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Buffers.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Collections.Immutable.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Memory.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Numerics.Vectors.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Reflection.Metadata.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\vbc.exe
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\vbc.exe.config
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\vbc.rsp
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\VBCSCompiler.exe
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\roslyn\VBCSCompiler.exe.config
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\Antlr3.Runtime.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\Aranoz.Model.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\Aranoz.Utility.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\BusinessLayerAranoz.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\DesignFactory.WebMatrix.ExecuterFactory.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\DesignFactory.WebMatrix.IExecuter.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\Microsoft.Web.Infrastructure.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\Newtonsoft.Json.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Security.AccessControl.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Helpers.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Mvc.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Optimization.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Razor.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.Deployment.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.Razor.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\WebGrease.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\WebMatrix.Data.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\WebMatrix.WebData.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\DataLayerSQL.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\DataLayer.Aranoz.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\Aranoz.Model.pdb
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\Aranoz.Utility.pdb
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\BusinessLayerAranoz.pdb
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\Antlr3.Runtime.pdb
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\Newtonsoft.Json.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Helpers.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Mvc.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Optimization.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.Razor.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.Deployment.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\System.Web.WebPages.Razor.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\WebMatrix.Data.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\WebMatrix.WebData.xml
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\DataLayerSQL.pdb
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\bin\DataLayer.Aranoz.pdb
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\obj\Debug\E-commerce.csproj.AssemblyReference.cache
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\obj\Debug\E-commerce.csproj.CoreCompileInputs.cache
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\obj\Debug\E-commerce.csproj.CopyComplete
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\obj\Debug\E-commerce.dll
+E:\EcommerceWebsite\SampleWebsite\New folder (6)\Ecommerce-Site\E-commerce\E-commerce\obj\Debug\E-commerce.pdb
